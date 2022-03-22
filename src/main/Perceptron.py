@@ -41,12 +41,14 @@ class Perceptron(object):
         samples = zip(input_vecs, labels)
         for (input_vec, label) in samples:
             output = self.predict(input_vec)
-
+        #in every iteration it updates the weights
             self._update_weights(input_vec, output, label, rate)
 
     def _update_weights(self,input_vec, output, label, rate):
         delta = label - output
         self.bias += rate*delta
+        #The list container can be used as an array but stores pointers to objects
+        #so we need to use np.array to transfer it into a real array
         self.weights += rate*delta*np.array(input_vec)        
 
 # test on and function    
@@ -64,7 +66,7 @@ def train_and_perceptron():
     p = Perceptron(2, acti_func)
     # get_training_dataset function has the input_vecs and labels as the return value
     input_vecs, labels = get_training_dataset()
-    p.train(input_vecs, labels, 10, 0.1)
+    p.train(input_vecs, labels, 100, 0.1)
     #return the trained perceptron
     return p
 
