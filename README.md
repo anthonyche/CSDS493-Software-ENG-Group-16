@@ -3,11 +3,14 @@
 
 
 ## Step 1. Dataset Obtain & Complie automation tool implementation Based on web3.py & MAIAN
+### See Inner file:[Smart Contract Auto Collector](https://github.com/anthonyche/CSDS493-Software-ENG-Group-16/tree/main/src/main/SmartContract_Collector)
+
 
 ## Step 2. Dataset collectioin 
 ### Dataset CSV file is attached to Google drive
-### link:
-    [Haolai shared_drive](https://drive.google.com/drive/u/1/folders/1X4SusCy9Dqh7QI4nU2wwi404Z0GxE4TE)
+### link:[Haolai shared_drive](https://drive.google.com/drive/u/1/folders/1X4SusCy9Dqh7QI4nU2wwi404Z0GxE4TE)
+
+
 ## Step 3. Data preprocessing
 Data set split and resampled to make sure dataset is balanced.
 
