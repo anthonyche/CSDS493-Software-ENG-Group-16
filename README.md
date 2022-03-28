@@ -1,6 +1,8 @@
 # CSDS493-Software-ENG-Group-16
+## Theme: Implement a LSTM neural network model to achieve Smart Contract Vulnurablity Differentiation
 
-## Step 1. Dataset download automation tool implementation
+
+## Step 1. Dataset Obtain & Complie automation tool implementation Based on web3.py & MAIAN
 
 ## Step 2. Dataset collectioin 
 ### Dataset CSV file is attached to Google drive
@@ -10,6 +12,9 @@
 Data set split and resampled to make sure dataset is balanced.
 
 ## Step 4. LSTM neural network implementation
+### Experimental Environment:
+#### Local: Jupyter Notebook
+#### Remote: Google Drive & Google Colab
 ### Current Version:
 ========Embedding Layer========. 
 
@@ -23,4 +28,4 @@ Data set split and resampled to make sure dataset is balanced.
 
 ========Dense 2========. 
 
-Optimizer adam. 
+========Optimizer adam========
