@@ -7,7 +7,7 @@
 ## Step 2. Dataset collectioin 
 ### Dataset CSV file is attached to Google drive
 ### link:
-    https://drive.google.com/drive/u/1/folders/1X4SusCy9Dqh7QI4nU2wwi404Z0GxE4TE
+    [Haolai shared_drive](https://drive.google.com/drive/u/1/folders/1X4SusCy9Dqh7QI4nU2wwi404Z0GxE4TE)
 ## Step 3. Data preprocessing
 Data set split and resampled to make sure dataset is balanced.
 
