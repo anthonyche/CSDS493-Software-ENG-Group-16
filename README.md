@@ -10,3 +10,7 @@
 Data set split and resampled to make sure dataset is balanced.
 
 ## Step 4. LSTM neural network implementation
+### Current Version:
+==== Embedding Layer ====
+==== DropOut Layer ====
+====
