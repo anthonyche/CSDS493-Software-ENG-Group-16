@@ -3,7 +3,7 @@
 
 
 ## Step 1. Dataset Obtain & Complie automation tool implementation Based on web3.py & MAIAN
-### See Inner file:[Smart Contract Auto Collector & Compiler](https://drive.google.com/drive/u/1/folders/1qlPNwOMKn48qvuRc3ES3M9n3D5Fatgw5)
+### See Shared Drive file:[Smart Contract Auto Collector & Compiler](https://drive.google.com/drive/u/1/folders/1qlPNwOMKn48qvuRc3ES3M9n3D5Fatgw5)
 
 
 ## Step 2. Dataset collectioin 
